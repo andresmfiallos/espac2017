@@ -1,0 +1,10 @@
+Package: espac2017
+Title: Cultivos Permanentes de la Encuesta de Superficie y Producción Agropecuaria Continua 2017 del INEC
+Version: 0.0.0.9000
+Authors@R: person("Andrew", "Morales", email = "andresmfiallos@gmail.com", role = c("aut", "cre"))
+Description: A continuación presento el código necesario para el procesamiento del archivo cpnac2017.csv correspondiente a los cultivos permanentes de la base de datos de la Encuesta de Superficie y Producción Agropecuaria Continua realizada por el INEC en el 2017. Este archivo tiene 121 variables, de las cuales en el presente código sólo se procesan las primeras
+Depends: R (>= 3.4.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
